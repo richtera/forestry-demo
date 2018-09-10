@@ -1,0 +1,12 @@
+---
+label: Question
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  name: stem
+  label: Stem
+  description: Stem of the question
+- type: boolean
+  name: random_order_answers
+  label: Random Order Answers
