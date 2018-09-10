@@ -1,0 +1,14 @@
+---
+label: Answer
+hide_body: false
+is_partial: true
+fields:
+- type: boolean
+  name: correct
+  label: Correct
+- type: textarea
+  label: Content
+  name: content
+- type: text
+  label: Label
+  name: label
