@@ -1,0 +1,8 @@
+---
+label: Article
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  name: content
+  label: Content
