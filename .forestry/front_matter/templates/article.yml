@@ -6,3 +6,8 @@ fields:
 - type: blocks
   name: content
   label: Content
+  template_types:
+  - text
+  - explanation
+  - answer
+  - question
